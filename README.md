@@ -9,7 +9,7 @@ franca of software development at the time that we were in grad school.
 
 The purpose of this project is to recreate that project by porting it to Rust and to clear the cobwebs of my operating systems knowledge but in Rust using the latest prefered practices.
 
-My memory is that Dr. Sharma required us to do I/O as if it were an IBM System/390. I don't have the 
-original requirements document. I don't remember if we had to support a given instruction set for the main processor or if we were free to create our own.
+My memory is that Dr. Sharma required us to do I/O as if it were an IBM System/390. Hence we use channels and a card reader. I don't have the 
+original requirements document. I don't remember if we had to support a given instruction set for the main processor or if we were free to create our own. I do remember that we had to swap memory whereas the undergraduates in the class did not.
 
 This is but one project to solidify my knowledge of Rust.
