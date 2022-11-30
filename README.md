@@ -1,6 +1,6 @@
 # `operating_systems`
 
-This is the source code for operating systems project written back in (cough, cough) for my Marist College
+This is the source code our for operating systems project written back in (cough, cough) for my Marist College
 operating systems course. if was written as a group project with my friend Dominic Bruen and a third person whom
 I don't remember; I think that his first name was Rajar.
 
